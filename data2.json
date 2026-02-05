@@ -1,0 +1,17 @@
+[
+    {
+      "DEPTNO": 10,
+      "DNAME": "ACCOUNTIN",
+      "LOC": "NEW YORK"
+    },
+    {
+      "DEPTNO": 20,
+      "DNAME": "RESEARCH",
+      "LOC": "DALLAS"
+    },
+    {
+      "DEPTNO": 30,
+      "DNAME": "IT",
+      "LOC": "LA"
+    }
+]
